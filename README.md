@@ -103,7 +103,7 @@ More work needs to be done on picking variables indicative of poverty, better de
 
 ## Repository Structure
 
-.
+'''
 ├── data
 │   ├── all_data.csv
 │   ├── dc_clusters.csv
@@ -125,3 +125,4 @@ More work needs to be done on picking variables indicative of poverty, better de
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
+'''
