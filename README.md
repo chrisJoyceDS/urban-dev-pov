@@ -100,3 +100,28 @@ More work needs to be done on picking variables indicative of poverty, better de
 |**forested**|*object*|Proportion of census tract covered by forest|
 |**cultivated**|*object*|Proportion of census tract covered by agriculatural land|
 |**cluster**|*object*|K-Means cluster output|
+
+## Repository Structure
+
+.
+├── data
+│   ├── all_data.csv
+│   ├── dc_clusters.csv
+│   ├── dc_ltdb_nanda.csv
+│   ├── dc_metro_census_tracts.csv
+│   ├── dcnyse_metro_census_tracts.zip
+│   ├── ny_metro_census_tracts.csv
+│   ├── nyc_clusters.csv
+│   ├── nyc_ltdb_nanda.csv
+│   ├── seattle_clusters.csv
+│   ├── seattle_ltdb_nanda.csv
+│   ├── seattle_metro_census_tracts.csv
+├── 01_census_api_pulldown_tracts.ipynb
+├── 02_kmeans_preprocessing_modeling.ipynb
+├── 03_clustering_modeling_three_cities.ipynb
+├── 04_linear_regression_modeling_eda.ipynb
+├── app.py
+├── choropleths.ipynb
+├── LICENSE
+├── README.md
+├── requirements.txt
