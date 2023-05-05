@@ -77,6 +77,9 @@ What comes from this analysis are highly useful heuristics for profiling city ar
 It also allows analysts to quickly profile different MSAs and compare them to each other. Policymakers can take these findings and communicate with peers in exemplar cities to see how these places focused their urban development efforts.<br>
 More work needs to be done on picking variables indicative of poverty, better defining what constitutes a “city”, gathering more recent data, and establishing a study design on land cover and poverty that can help analysts arrive at more significant results. <br>
 
+## Live Application (UnderDevelopment)
+https://urban-dev-pov-amcmcj.onrender.com
+
 ## Data Table
 
 |Feature|Type|Description|
